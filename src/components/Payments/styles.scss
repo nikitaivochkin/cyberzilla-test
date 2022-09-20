@@ -1,0 +1,25 @@
+@import 'styles/config/includes';
+
+.payment-item {
+  position: relative;
+  height: 100%;
+  cursor: pointer;
+  transition: background-color 150ms linear;
+
+  &:hover {
+    background-color: $paymentCardHoverBg;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__id {
+    flex-grow: 1;
+  }
+}
+
+.modal-payments {
+  min-width: 80vw;
+}

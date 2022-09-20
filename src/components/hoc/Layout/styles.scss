@@ -1,0 +1,17 @@
+@import 'styles/config/includes';
+
+.main-nav {
+  position: relative;
+
+  &__link {
+    color: inherit;
+    text-decoration: none;
+    width: 100%;
+    color: $dark;
+  }
+}
+
+.content-section {
+  padding-right: 16px !important;
+  padding-bottom: 16px !important
+}
