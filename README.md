@@ -12,6 +12,6 @@
   - deploy - `make deploy`
   - lint - `make lint`
 
-### [Link to app](cyberzilla-test-task-react-redux-ts.surge.sh)*
+### [Link to app](https://cyberzilla-test-task-react-redux-ts.surge.sh/)*
 
 *deployed to [surge](https://surge.sh/)
