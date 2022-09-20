@@ -12,6 +12,8 @@
   - deploy - `make deploy`
   - lint - `make lint`
 
+**Fake api by [jsonplaceholder](https://jsonplaceholder.typicode.com/)**
+
 ### [Link to app](https://cyberzilla-test-task-react-redux-ts.surge.sh/)*
 
 *deployed to [surge](https://surge.sh/)
